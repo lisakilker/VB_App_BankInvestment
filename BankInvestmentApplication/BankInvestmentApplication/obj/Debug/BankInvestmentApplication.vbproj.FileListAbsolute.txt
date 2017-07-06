@@ -1,0 +1,10 @@
+c:\users\lisakilker\documents\visual studio 2012\Projects\BankInvestmentApplication\BankInvestmentApplication\bin\Debug\BankInvestmentApplication.exe.config
+c:\users\lisakilker\documents\visual studio 2012\Projects\BankInvestmentApplication\BankInvestmentApplication\bin\Debug\BankInvestmentApplication.exe
+c:\users\lisakilker\documents\visual studio 2012\Projects\BankInvestmentApplication\BankInvestmentApplication\bin\Debug\BankInvestmentApplication.pdb
+c:\users\lisakilker\documents\visual studio 2012\Projects\BankInvestmentApplication\BankInvestmentApplication\bin\Debug\BankInvestmentApplication.xml
+c:\users\lisakilker\documents\visual studio 2012\Projects\BankInvestmentApplication\BankInvestmentApplication\obj\Debug\BankInvestmentApplication.frmBankInvestment.resources
+c:\users\lisakilker\documents\visual studio 2012\Projects\BankInvestmentApplication\BankInvestmentApplication\obj\Debug\BankInvestmentApplication.Resources.resources
+c:\users\lisakilker\documents\visual studio 2012\Projects\BankInvestmentApplication\BankInvestmentApplication\obj\Debug\BankInvestmentApplication.vbproj.GenerateResource.Cache
+c:\users\lisakilker\documents\visual studio 2012\Projects\BankInvestmentApplication\BankInvestmentApplication\obj\Debug\BankInvestmentApplication.exe
+c:\users\lisakilker\documents\visual studio 2012\Projects\BankInvestmentApplication\BankInvestmentApplication\obj\Debug\BankInvestmentApplication.xml
+c:\users\lisakilker\documents\visual studio 2012\Projects\BankInvestmentApplication\BankInvestmentApplication\obj\Debug\BankInvestmentApplication.pdb
